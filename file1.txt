@@ -7,3 +7,6 @@ new line added by main
 =======
 new line changed by feature 1
 >>>>>>> feature1
+dddddd
+ecf
+ecf
